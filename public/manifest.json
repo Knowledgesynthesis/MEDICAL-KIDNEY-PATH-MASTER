@@ -1,0 +1,19 @@
+{
+  "name": "Medical Kidney Path Master",
+  "short_name": "KidneyPath",
+  "description": "A comprehensive educational platform for renal pathology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1e293b",
+  "theme_color": "#1e293b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/kidney-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "medical"]
+}
